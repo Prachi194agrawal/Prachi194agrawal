@@ -20,7 +20,6 @@
 
 🎓 **Third-year B.Tech IT** student at **IIITM Gwalior** (2022-2027)  
 💻 **700+ competitive programming** problems solved across platforms  
-🌟 **Summer of Bitcoin 2025** contributor working on blockchain infrastructure  
 🔥 **CNCF KubeEdge** contributor with **Green Channel** status  
 ⚡ **Full-stack developer** passionate about ML and AI applications  
 
